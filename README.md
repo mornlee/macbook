@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mac for Developer v0.1
 
 将本人在使用Mac作为开发工具的过程中的一些体会做个记录和整理，方便以后自己和团队的参考，提高效率。如果本文对其他开发人员也有所帮助，欢迎您给给出反馈或者提出改进意见。
@@ -20,3 +21,7 @@
 * 配置文件 - 整理中 ...
 * 常用快捷键 - 整理中 ...
 * [参考文档](https://github.com/pubyun/macdev/blob/master/refs.md)
+=======
+# macbook
+dive into my macbook
+>>>>>>> c18bb3a95e7a2a63fa748fd3579e044db61507a9
